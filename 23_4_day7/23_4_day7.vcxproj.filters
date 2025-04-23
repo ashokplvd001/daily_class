@@ -24,6 +24,12 @@
     <ClCompile Include="hellowater.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="doWhileFun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="doWhileFun1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
